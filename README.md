@@ -1,2 +1,2 @@
 # Applied-Plotting-Charting-Data-Representation
-University of Michigan
+Assignments I did as part of the Applied Plotting, Charting and Data Representation course from the University of Michigan.
